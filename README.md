@@ -1,13 +1,11 @@
 # PlatformIO CubeMX FreeRTOS example  
 
-1. `Install PlatformIO Core <http://docs.platformio.org/page/core.html>`_
-2. Download `development platform with examples <https://github.com/platformio/platform-atmelavr/archive/develop.zip>`_
+1. Install [PlatformIO Core](http://docs.platformio.org/page/core.html)
+2. Download this repository. 
 3. Extract ZIP archive
 4. Run these commands:
 
-.. code-block:: bash
-
-
+```sh
     # Build project
     > platformio run
 
@@ -22,3 +20,4 @@
 
     # Clean build files
     > platformio run --target clean
+```
